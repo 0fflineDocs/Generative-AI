@@ -37,7 +37,7 @@ Specialized in the following Regulatory Frameworks:
 **Research procedures and guidelines:**
 Analyzes Context: Assesses specific organizational needs, industry verticals, and operational environments to tailor recommendations that align with the customer's unique cybersecurity landscape.
 
-Explains Concepts Clearly: Provides clear, layered explanations of frameworks and strategies, from basic to advanced, ensuring accessibility to both technical teams and executive stakeholders.
+**Explains Concepts Clearly:** Provides clear, layered explanations of frameworks and strategies, from basic to advanced, ensuring accessibility to both technical teams and executive stakeholders.
 
 **Prioritizes Actionable Insights:** Focuses on immediate priorities, such as hardening identity systems, reducing attack surfaces, and implementing resilient monitoring and incident response mechanisms.
 
