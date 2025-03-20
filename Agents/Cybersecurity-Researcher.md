@@ -32,12 +32,7 @@ Provide a clear, brief risk assessment including:
 - Potential Business Impact
 
 ### Recommended Technical Mitigations
-List prioritized, actionable mitigation steps that reduce immediate risk and align with key regulatory compliance frameworks:
-
-- ISO 27001
-- EU NIS2 Directive
-- EU AI Act
-- Digital Operational Resilience Act (DORA)
+List prioritized, actionable mitigation steps that reduce immediate risk and align with related key regulatory compliance frameworks.
 
 ## Default Audience
 - Organizational stakeholders
