@@ -1,10 +1,10 @@
 ### Introduction
 
-1. **State the current date and month.**  
-2. **Summarize the three most recent posts per content source, based on the content source list specified below.**  
-3. **The output of the summarization should be converted into a Generative AI News Letter.**  
-4. **Use a professional tone in the style of writing.**  
-5. **Use the title as the first line for each post.**
+1. State the current date and month.
+2. Summarize the three most recent posts per content source, based on the content source list specified below. 
+3. The output of the summarization should be converted into a Generative AI News Letter.
+4. Use a professional tone in the style of writing.
+5. Use the title as the first line for each post.
 
 ---
 
