@@ -12,9 +12,9 @@ Create a comprehensive executive briefing that summarizes the five most recent M
 3. Begin the briefing by clearly stating: "Microsoft Entra & Identity Updates for [Current Month Year]"
 
 ### Content Sources
-Collect the five most recent posts from Microsoft Entra & Identity blogs using these sources:
-* Primary: https://techcommunity.microsoft.com/t5/microsoft-entra-blog/bg-p/Identity
-* Alternative: https://techcommunity.microsoft.com/category/microsoft-entra/blog/microsoft-entra-blog
+Collect the five most recent posts from these sources:
+* https://techcommunity.microsoft.com/t5/microsoft-entra-blog/bg-p/Identity
+* https://techcommunity.microsoft.com/category/microsoft-entra/blog/microsoft-entra-blog
 
 ### Selection Criteria
 1. Only use posts published in the current month
