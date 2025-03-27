@@ -2,8 +2,8 @@
 
 ## Art Style / Medium Keywords
 
-| Traditional Art    | Digital Art        | Conceptual / Named     |
-|--------------------|--------------------|-------------------------|
+| Traditional Art    | Digital Art        | Conceptual             |
+|--------------------|--------------------|------------------------|
 | Watercolor         | Digital Painting   | Cyberpunk              |
 | Oil Painting       | Vector Art         | Art Nouveau            |
 | Ink Drawing        | Pixel Art          | Art Deco               |
@@ -12,15 +12,15 @@
 | Acrylic Painting   | Isometric          | Brutalist              |
 | Pastel             | Matte Painting     | Pop Art                |
 | Stained Glass      | Line Art           | Minimalist             |
-| Collage            |                    | Steampunk              |
-|                    |                    | Gothic                 |
+| Collage            | Art Station        | Steampunk              |
+| Ink Work           | Deviant Art        | Gothic                 |
 
 ---
 
 ## Composition Elements
 
-| Framing & Structure     | Scene Types      |
-|-------------------------|------------------|
+| Framing & Structure     | Scene Types       |
+|-------------------------|-------------------|
 | Close-up portrait       | Landscape         |
 | Medium shot             | Portrait          |
 | Full-body shot          | Still life        |
@@ -59,7 +59,7 @@
 
 ## Camera / Render Details
 
-| Photography Details        | Rendering / Quality     |
+| Photography Details        | Rendering / Quality      |
 |----------------------------|--------------------------|
 | 35mm / 50mm lens           | 4K / 8K / Ultra HD       |
 | Telephoto lens             | Unreal Engine            |
