@@ -1,6 +1,6 @@
-# Prompt Reference Sheet - Styles
+# 🎨 Prompt Reference Sheet - Styles
 
-## Art Style / Medium Keywords
+## 🖼️ Art Style / Medium Keywords
 
 | Traditional Art    | Digital Art        | Conceptual             |
 |--------------------|--------------------|------------------------|
@@ -17,7 +17,7 @@
 
 ---
 
-## Composition Elements
+## 🧱 Composition Elements
 
 | Framing & Structure     | Scene Types       |
 |-------------------------|-------------------|
@@ -36,7 +36,7 @@
 
 ---
 
-## Lighting & Mood
+## 💡 Lighting & Mood
 
 | Lighting             | Mood             |
 |----------------------|------------------|
@@ -57,7 +57,7 @@
 
 ---
 
-## Camera / Render Details
+## 📸 Camera / Render Details
 
 | Photography Details        | Rendering / Quality      |
 |----------------------------|--------------------------|
