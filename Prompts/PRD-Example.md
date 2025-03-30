@@ -117,8 +117,4 @@ The main application component handles:
 
 - **Header**: Application header with search and social links  
 
-![Header Example](https://github.com/user-attachments/assets/2574f5d2-e6be-49ff-ba9c-6580ca0eb592)
-
 ---
-
-Let me know if you'd like this exported as a `.md` file or styled for a specific platform like GitHub, Notion, or a blog!
