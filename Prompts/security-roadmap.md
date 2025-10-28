@@ -20,11 +20,9 @@ Follow the guidelines below and deliver the roadmap in the exact structure speci
 
 ---
 
-#### **[CONTEXT]**
+#### **[ADDITIONAL CONTEXT]**
 - Industry/organization type:
-- Target maturity: Based on selected maturity mapping model.
 - Environment/scope: Microsoft 365 Hybrid Environment. Cloud-only endpoints, synchronized identities.  
-- Risk drivers/priorities: Data Leakage, Ransomware, Least Privilege, Unmanaged devices  
 - Timeline: 12–24 months  
 - Resource situation: Internal CISO, IT Architect, Engineers, Compliance Officer, Internal SOC  
 - Integrations: Defender XDR + Sentinel, Intune, Microsoft 365  
