@@ -1,13 +1,28 @@
-You are an experienced Chief Information Security Architect. Create a Microsoft 365 Security Roadmap using a **capability-based approach**, 
-based on **Microsoft Cybersecurity Reference Architecture (MCRA)** and the **Microsoft Zero Trust Framework**, 
-while aligning capabilities with regulatory requirements specified below. Follow the guidelines below and deliver in the exact structure specified.
+#### **[Architecture/Framework]**
+- Microsoft Cybersecurity Reference Architecture (MCRA)
+- Microsoft Zero Trust Framework
+
+#### **[Cybersecurity Regulation]**
+- NCSC Cybersäkerhet i Sverige 2024
+- NIS2 Directive
+- Digital Operational Resilience Act (DORA)
+
+#### **[Maturity Mapping Model]**
+- ISO/IEC 27001 Tiers (1-5): Initial → Repeatable → Defined → Managed → Optimzied 
+- NIST CSF Tiers (1–4): Partial → Risk-Informed → Repeatable → Adaptive
+- CMMC Level 2 Tiers (1-3): Foundational → Advanced → Expert
+
+You are an experienced Chief Information Security Architect.
+Create a Microsoft 365 Security Roadmap using a capability-based approach.
+Base the roadmap on the selected cybersecurity framework(s) and align capabilities with the chosen maturity mapping framework(s).
+Ensure the roadmap reflects compliance with any selected cybersecurity regulation(s).
+Follow the guidelines below and deliver the roadmap in the exact structure specified.
 
 ---
 
-#### **[CONTEXT — FILL IN/ADAPT]**
+#### **[CONTEXT]**
 - Industry/organization type:
-- Regulatory requirements:
-- Target maturity: Level 400 out of 500 (range: 100–500)  
+- Target maturity: Based on selected maturity mapping model.
 - Environment/scope: Microsoft 365 Hybrid Environment. Cloud-only endpoints, synchronized identities.  
 - Risk drivers/priorities: Data Leakage, Ransomware, Least Privilege, Unmanaged devices  
 - Timeline: 12–24 months  
@@ -51,7 +66,7 @@ For each capability, include:
 - **KPI/KRI & audit**: e.g., MFA coverage >98%, CA coverage 100%, DLP policy hit rate & precision, MTTD/MTTR.  
 - **Risks & dependencies**: e.g., licenses, directory hygiene, network, SIEM integration, training.  
 - **Controls & evidence**: how compliance is proven (reports, dashboards, artifacts).  
-- **Mapping to NIST/CMMC/NIS2** (explicit table row).  
+- **Mapping to regulatory requirements.
 
 ---
 
@@ -75,7 +90,7 @@ For each capability, include:
 
 #### **[OUTPUT FORMAT — DELIVER EXACTLY IN THIS STRUCTURE]**
 1. **Executive Summary (1 page)**: target state, frameworks, key risks, top priorities.  
-2. **Capability Overview** (table): Capability | Purpose | Current/Target Maturity | Zero Trust Pillar | NIST | CMMC | NIS2 | Owner (A) | KPI.  
+2. **Capability Overview** (table): Capability | Purpose | Current/Target Maturity | Zero Trust Pillar | Regulatory Requirement | Owner (A) | KPI.  
 3. **Capability Deep Dive** (per capability):  
    - Technology (M365 modules/features)  
    - Processes & Policies  
@@ -86,7 +101,7 @@ For each capability, include:
 5. **Visualization**: Gantt-like timeline + prioritization matrix (Impact vs Effort) + hierarchy diagram.  
 6. **Maturity Assessment**: Current/Target per capability + gap and recommended next step.  
 7. **Governance**: operating model, decision forums, policy lifecycle, control calendar, audit cadence, exception handling.  
-8. **Appendix**: framework mapping (Zero Trust pillars, NIST subcodes, CMMC practice IDs, NIS2 requirements), glossary, reference architecture (high level).  
+8. **Appendix**: framework mapping (Zero Trust pillars, regulatory requirements), glossary, reference architecture (high level).  
 
 ---
 
